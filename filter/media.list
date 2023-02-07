@@ -1,0 +1,51 @@
+### (Media)
+# > HBO Now & HBO GO
+USER-AGENT,HBO%20NOW*, proxy
+USER-AGENT,HBO%20GO*, proxy
+USER-AGENT,HBOAsia*, proxy
+DOMAIN-SUFFIX,hbo.com, proxy
+DOMAIN-SUFFIX,hbogo.com, proxy
+DOMAIN-SUFFIX,hboasia.com, proxy
+DOMAIN-SUFFIX,hbogo.com, proxy
+DOMAIN-SUFFIX,hbogoasia.hk, proxy
+DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com, proxy
+DOMAIN,bcbolthboa-a.akamaihd.net, proxy
+DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net, proxy
+DOMAIN,manifest.prod.boltdns.net, proxy
+DOMAIN,s3-ap-southeast-1.amazonaws.com, proxy
+# > iwara
+## DOMAIN-SUFFIX, iwara.tv, iwara
+# > Netflix
+USER-AGENT,Argo*, proxy
+DOMAIN-SUFFIX,netflix.com, proxy
+DOMAIN-SUFFIX,netflix.net, proxy
+DOMAIN-SUFFIX,nflxext.com, proxy
+DOMAIN-SUFFIX,nflximg.com, proxy
+DOMAIN-SUFFIX,nflximg.net, proxy
+DOMAIN-SUFFIX,nflxso.net, proxy
+DOMAIN-SUFFIX,nflxvideo.net, proxy
+IP-CIDR,23.246.0.0/18, proxy
+IP-CIDR,37.77.184.0/21, proxy
+IP-CIDR,45.57.0.0/17, proxy
+IP-CIDR,64.120.128.0/17, proxy
+IP-CIDR,66.197.128.0/17, proxy
+IP-CIDR,108.175.32.0/20, proxy
+IP-CIDR,192.173.64.0/18, proxy
+IP-CIDR,198.38.96.0/19, proxy
+IP-CIDR,198.45.48.0/20, proxy
+# > niconico
+USER-AGENT,Niconico, proxy
+DOMAIN-SUFFIX,dmc.nico, proxy
+DOMAIN-SUFFIX,nicovideo.jp, proxy
+DOMAIN-SUFFIX,nimg.jp, proxy
+DOMAIN-SUFFIX,socdm.com, proxy
+# > Pornhub
+DOMAIN-SUFFIX,phncdn.com, proxy
+DOMAIN-SUFFIX,pornhub.com, proxy
+DOMAIN-SUFFIX,pornhubpremium.com, proxy
+# > Youtube
+USER-AGENT,com.google.ios.youtube*, proxy
+USER-AGENT,YouTube*, proxy
+DOMAIN-SUFFIX,googlevideo.com, proxy
+DOMAIN-SUFFIX,youtube.com, proxy
+DOMAIN,youtubei.googleapis.com, proxy
