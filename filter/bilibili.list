@@ -1,0 +1,15 @@
+##### https://bilibili.com
+# > B站规则转发
+DOMAIN, grpc.biliapi.net, proxy
+DOMAIN, api.bilibili.com, proxy
+DOMAIN, passport.bilibili.com, proxy
+DOMAIN, api.bilibili.com, proxy
+DOMAIN, api.bilibili.tv, proxy
+DOMAIN, app.bilibili.com, proxy
+DOMAIN-SUFFIX, biliapi.com, proxy
+DOMAIN, api.live.bilibili.com, proxy
+DOMAIN, api.vc.bilibili.com, proxy
+DOMAIN, passport.bilibili.com, proxy
+DOMAIN, live-trace.bilibili.com, proxy
+DOMAIN, message.bilibili.com, proxy
+DOMAIN, cm.bilibili.com, proxy
