@@ -25,6 +25,8 @@ DOMAIN-SUFFIX, e-hentai.org, proxy
 DOMAIN-SUFFIX, github.com, proxy
 DOMAIN-SUFFIX, github.io, proxy
 DOMAIN-SUFFIX, githubusercontent.com, proxy
+# > Openai
+DOMAIN-SUFFIX, openai.com, proxy
 # > PayPal
 DOMAIN-SUFFIX, paypal.com, proxy
 # > Pixiv
