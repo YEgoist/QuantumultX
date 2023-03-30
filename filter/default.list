@@ -27,6 +27,8 @@ DOMAIN-SUFFIX, github.io, proxy
 DOMAIN-SUFFIX, githubusercontent.com, proxy
 # > Openai
 DOMAIN-SUFFIX, openai.com, proxy
+# > Patreon
+DOMAIN-SUFFIX, patreon.com, proxy
 # > PayPal
 DOMAIN-SUFFIX, paypal.com, proxy
 # > Pixiv
@@ -35,6 +37,8 @@ DOMAIN-SUFFIX, limbopro.xyz, proxy
 DOMAIN-SUFFIX, pximg.net, proxy
 DOMAIN-SUFFIX, pixiv.net, proxy
 DOMAIN-SUFFIX, pixiv.org, proxy
+# > Sankakucomplex
+DOMAIN-KEYWORD,sankakucomplex,Proxy
 # > Steam
 DOMAIN-SUFFIX, steamstatic.com, proxy
 DOMAIN-SUFFIX, steamcommunity.com, proxy
