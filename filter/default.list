@@ -5,9 +5,11 @@ DOMAIN, testflight.apple.com, proxy
 # > 初音笔记
 ## DOMAIN-SUFFIX, estertion.win, proxy
 # > Discord
+DOMAIN-SUFFIX, discord.gg, proxy
 DOMAIN-SUFFIX, discord.com, proxy
 DOMAIN-SUFFIX, discordapp.com, proxy
 DOMAIN-SUFFIX, discordapp.net, proxy
+DOMAIN-SUFFIX, discordapp.page.link, proxy
 # > dlsite
 DOMAIN-SUFFIX, dlsite.com, proxy
 # > DMM
